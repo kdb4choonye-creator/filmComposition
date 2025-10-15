@@ -1149,6 +1149,37 @@ a {
 .cid-uZF8rqZLzQ .mbr-description {
   color: #e6c63b;
 }
+.cid-uZFhr3WgwN {
+  padding-top: 0rem;
+  padding-bottom: 3rem;
+  background-color: #000000;
+}
+.cid-uZFhr3WgwN .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uZFhr3WgwN .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-uZFhr3WgwN .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-uZFhr3WgwN .row {
+  flex-direction: row-reverse;
+}
+.cid-uZFhr3WgwN img {
+  width: 100%;
+}
+.cid-uZFhr3WgwN .mbr-description {
+  color: #e6c63b;
+}
 .cid-uZzZ5n5wPm {
   padding-top: 0rem;
   padding-bottom: 3rem;
@@ -1263,6 +1294,37 @@ a {
   width: 100%;
 }
 .cid-uZF0yh8vV3 .mbr-description {
+  color: #e6c63b;
+}
+.cid-uZFgwwSe9T {
+  padding-top: 0rem;
+  padding-bottom: 3rem;
+  background-color: #000000;
+}
+.cid-uZFgwwSe9T .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uZFgwwSe9T .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-uZFgwwSe9T .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-uZFgwwSe9T .row {
+  flex-direction: row-reverse;
+}
+.cid-uZFgwwSe9T img {
+  width: 100%;
+}
+.cid-uZFgwwSe9T .mbr-description {
   color: #e6c63b;
 }
 .cid-uZFaqJwDBP {
@@ -1495,6 +1557,37 @@ a {
   width: 100%;
 }
 .cid-uZFe4Ji4Tz .mbr-description {
+  color: #e6c63b;
+}
+.cid-uZFfLZfBgc {
+  padding-top: 0rem;
+  padding-bottom: 3rem;
+  background-color: #000000;
+}
+.cid-uZFfLZfBgc .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uZFfLZfBgc .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-uZFfLZfBgc .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-uZFfLZfBgc .row {
+  flex-direction: row-reverse;
+}
+.cid-uZFfLZfBgc img {
+  width: 100%;
+}
+.cid-uZFfLZfBgc .mbr-description {
   color: #e6c63b;
 }
 .cid-uZA0BsFIGZ {
